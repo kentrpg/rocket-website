@@ -10,7 +10,10 @@
     "deploy": "vite build && gh-pages -d dist"
   },
   "devDependencies": {
+    "@eslint/js": "^9.9.1",
     "ejs": "^3.1.9",
+    "eslint": "^9.9.1",
+    "globals": "^15.9.0",
     "sass": "^1.77.6",
     "vite": "^4.2.0",
     "vite-plugin-ejs": "^1.6.4"
